@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body> hhhhhhhhhhhhhh
 <%@page import="com.app.bean.UserDao"%>  
 <jsp:useBean id="u" class="com.app.bean.Book"></jsp:useBean>  
 <jsp:setProperty property="*" name="u"/>  
